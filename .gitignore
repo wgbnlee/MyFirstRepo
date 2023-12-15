@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Assignment-06/.vs/Assignment-06/FileContentIndex
+/Assignment-06/.vs/Assignment-06/v17
+/.vs
+/Assignment-06/x64/Debug/Assignment-06.tlog
+*.exe
+*.recipe
+/Assignment-06/x64/Debug
